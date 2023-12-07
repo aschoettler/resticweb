@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.5.0](https://github.com/garethgeorge/resticweb/compare/v0.4.0...v0.5.0) (2023-12-07)
+
+
+### Features
+
+* implement repo unlocking and operation list implementation ([6665ad9](https://github.com/garethgeorge/resticweb/commit/6665ad98d7f54bea30ea532932a8a3409717c913))
+* initial Windows OS support ([f048cbf](https://github.com/garethgeorge/resticweb/commit/f048cbf10dc60da51cd7f5aee4614a8750fd85b2))
+
+
+### Bug Fixes
+
+* ordering of operations when viewed from backup tree ([063f086](https://github.com/garethgeorge/resticweb/commit/063f086a6e31df250dd9be42cdb5fa549307106f))
+
 ## [0.4.0](https://github.com/garethgeorge/resticweb/compare/v0.3.0...v0.4.0) (2023-12-04)
 
 
